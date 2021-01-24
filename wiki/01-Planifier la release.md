@@ -1,7 +1,7 @@
-# Planifier la "release"
+# Planifier la release
 
 * 🔖 **Plan de version**
-* 🔖 **"Burn down" de "release"**
+* 🔖 **Burn down de release**
 * 🔖 **L'utilisation du "Product Backlog" et vélocité**
 
 ___
@@ -24,7 +24,7 @@ Définir un nombre de sprint pour la release du projet et leur définir un objec
 
 ___
 
-## 📑 Burn down" de "release"
+## 📑 Burn down de release
 
 
 Le Burndow Chart montre l'effort accompli pendant un sprint ou pendant une release.
@@ -43,7 +43,7 @@ Récupérer le fichier [BurndownRelease](https://raw.githubusercontent.com/seere
 
 ___
 
-## 📑 L'utilisation du "Product Backlog" et vélocité
+## 📑 L'utilisation du Product Backlog et vélocité
 
 Le product backlog contient la référence des histoires utilisateurs et leur estimation, chaque sprint va traiter les histoires utilisateurs qui lui sont ratachées pendant la release planning.
 

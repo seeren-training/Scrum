@@ -1,15 +1,15 @@
-# Planifier le "sprint"
+# Planifier le sprint
 
-* 🔖 **Déroulement d'un "sprint"**
-* 🔖 **"Sprint planning meeting"**
-* 🔖 **"Sprint Backlog"**
-* 🔖 **"Burn down" de "sprint"**
+* 🔖 **Déroulement d'un sprint"**
+* 🔖 **Sprint planning meeting**
+* 🔖 **Sprint Backlog**
+* 🔖 **"Burn down de sprint"**
 * 🔖 **"Daily Scrum"**
 
 Une fois le release planning établie, la plannification du prochain sprint commence
 ___
 
-## 📑 Déroulement d'un "sprint"
+## 📑 Déroulement d'un sprint
 
 Un sprint possède une timebox de **4 semaines** et possède de **3 à 9 participants**. Avant de le débuter, sa **Plannification** puis la confection de son **Backlog partiel** sont requis. Une fois commencé son seul évènement quotidien est le **Daily Scrum**.
 
@@ -17,7 +17,7 @@ Un sprint possède une timebox de **4 semaines** et possède de **3 à 9 partici
 
 ___
 
-## 📑 "Sprint planning meeting"
+## 📑 Sprint planning meeting
 
 Cet évènement possède uen timeboxe de **8 heures**. La **scrum team** est présente à cet évènement, c'est le seul moment où elle peut solliciter une **aide extérieure** pour l'aider. 
 
@@ -38,7 +38,7 @@ Plannifier le prochain sprint en vous appuyant sur une aide extérieure et en r�
 
 ___
 
-## 📑 "Sprint Backlog"
+## 📑 Sprint Backlog
 
 Le résultat du **Sprint Planning** est l'établissement d'un **Sprint Backlog**. Ce Backlog concerne l'équipe de développement, **le print peut démarrer quand le backlog possède une journée de travail**. Chaque membre peut sélectionner une tache pour son accomplissement et peut ajouter des tâches en découpant une histoire utilisateur ou compléter un découpage.
 
@@ -58,7 +58,7 @@ Compléter les taches en associant une classe de service et un team member sur c
 
 ___
 
-## 📑 "Burn down" de "sprint"
+## 📑 Burn down de sprint
 
 Comme observé pour l'échelle de la release ainsi que pendant la thématique AGI-MET, il est important de pouvoir visualiser l'avancement de l'effort à accomplir dans le temps. Maintenir à la main un BurnDown de sprint au vu du nombre de taches est une perte de temps, il faut utiliser un outil proposant cette automatisation.
 
@@ -68,7 +68,7 @@ Comme observé pour l'échelle de la release ainsi que pendant la thématique AG
 
 ___
 
-## 📑 "Daily Scrum"
+## 📑 Daily Scrum
 
 Chaque jour, une réunion rythme le sprint. L'objectif est de synchroniser les activitées et de crée un plan pour les prochaines 24 heures.
 
