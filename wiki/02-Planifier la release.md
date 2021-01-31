@@ -39,7 +39,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Récupérer le fichier [BurndownRelease](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/01/BurndownRelease.xls) pour le faire correspondre au nombre story points  et de sprint de votre projet. Le déposer à la racine de votre projet localement.
+Pour maintenir ce burndown vous pouvez récupérer le fichier [BurndownRelease](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/01/BurndownRelease.xls).
 
 ___
 

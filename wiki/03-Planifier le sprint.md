@@ -1,10 +1,10 @@
 # Planifier le sprint
 
-* 🔖 **Déroulement d'un sprint"**
+* 🔖 **Déroulement d'un sprint**
 * 🔖 **Sprint planning meeting**
 * 🔖 **Sprint Backlog**
-* 🔖 **"Burn down de sprint"**
-* 🔖 **"Daily Scrum"**
+* 🔖 **Burn down de sprint**
+* 🔖 **Daily Scrum**
 
 Une fois le release planning établie, la plannification du prochain sprint commence
 ___
@@ -19,7 +19,7 @@ ___
 
 ## 📑 Sprint planning meeting
 
-Cet évènement possède uen timeboxe de **8 heures**. La **scrum team** est présente à cet évènement, c'est le seul moment où elle peut solliciter une **aide extérieure** pour l'aider. 
+Cet évènement possède uen timebox de **8 heures**. La **scrum team** est présente à cet évènement, c'est le seul moment où elle peut solliciter une **aide extérieure** pour l'aider. 
 
 L'objectif de ce planning est de produire un backlog de sprint en répondant à la question: 
 
@@ -29,6 +29,17 @@ L'objectif de ce planning est de produire un backlog de sprint en répondant à 
 Il est possible que par rapport à la release planning, le **scope** et l'**objectif** du sprint soient requalifiés. Il est possible de travailler directement avec des histoires utilisateurs mais la team est **libre de sa méthode**. Il est fréquent de voir les histoires utilisateurs découpées en **taches, estimées et priorisés** puis positionnée sur un **Kanban** à définir. Chacun poura selectionner une tache au démarage du sprint.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/02-Planning.jpg)
+
+
+### 🏷️ **User story**
+
+Une histoire utilisateur ne doit pas être assimilée à un Epic
+
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/03-scale.jpg)
+
+Elle doit répondre aux citères Invest
+
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/03-quality.jpg)
 
 ___
 
@@ -62,15 +73,15 @@ ___
 
 Comme observé pour l'échelle de la release ainsi que pendant la thématique AGI-MET, il est important de pouvoir visualiser l'avancement de l'effort à accomplir dans le temps. Maintenir à la main un BurnDown de sprint au vu du nombre de taches est une perte de temps, il faut utiliser un outil proposant cette automatisation.
 
-🔗 [@see AGI-MET](https://github.com/POEC-20-05/AGI-MET/wiki)
-
-🔗 [@see Understanding Burndown Charts](https://zepel.io/agile/reports/burndown/)
+[Understanding Burndown Charts](https://zepel.io/agile/reports/burndown/)
 
 ___
 
 ## 📑 Daily Scrum
 
 Chaque jour, une réunion rythme le sprint. L'objectif est de synchroniser les activitées et de crée un plan pour les prochaines 24 heures.
+
+[Stand up](https://www.youtube.com/watch?v=kKIc1NFO-AU)
 
 * Il possède une timebox de **15 minutes**
 * Il se déroule **toujours au même endroit** et **à la même heure** pour diminuer la complexité.
@@ -83,5 +94,8 @@ Cette réunion ne doit pas forcément se dérouler debout même si cela permet �
 * Qu'est-ce que j'ai fait hier qui a aidé l'équipe de développement à atteindre l'objectif de sprint?
 * Que vais-je faire aujourd'hui pour aider l'équipe de développement à atteindre l'objectif de sprint?
 * Est-ce que je vois un obstacle qui m'empêche, moi ou l'équipe de développement, d'atteindre l'objectif de sprint?
+
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/daily.jpg)
+
 
 ___
