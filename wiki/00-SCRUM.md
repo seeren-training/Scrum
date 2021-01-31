@@ -11,9 +11,10 @@ ___
 
 ## Sommaire
 
-* [Planifier la release](https://github.com/seeren-training/Scrum/wiki/01)
-* [Planifier le sprint](https://github.com/seeren-training/Scrum/wiki/02)
-* [Que le Sprint commence](https://github.com/seeren-training/Scrum/wiki/03)
+* [Vue globale](https://github.com/seeren-training/Scrum/wiki/01)
+* [Planifier la release](https://github.com/seeren-training/Scrum/wiki/02)
+* [Planifier le sprint](https://github.com/seeren-training/Scrum/wiki/03)
+* [Que le Sprint commence](https://github.com/seeren-training/Scrum/wiki/04)
 
 ___
 
