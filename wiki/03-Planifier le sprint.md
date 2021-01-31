@@ -35,11 +35,11 @@ Il est possible que par rapport à la release planning, le **scope** et l'**obje
 
 Une histoire utilisateur ne doit pas être assimilée à un Epic
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/03-scale.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/scale.jpg)
 
 Elle doit répondre aux citères Invest
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/03-quality.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/quality.jpg)
 
 ___
 
