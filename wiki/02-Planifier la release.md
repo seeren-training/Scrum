@@ -14,7 +14,7 @@ Après avoir exprimé la vision du produit, une RoadMap peut prévoir plusieurs 
 
 La release planning n'est pas un évènement officiel en scrum mais permet d'étaler les histoires utilisateurs sur des sprints et de fixer un objectif au sprint. Le sprint possède une boîte de temps de 4 semaines, c'est à dire qu'il doit durer au maximum 4 semaines.
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/01/01-Release.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/01/01-Release.png)
 
 ___
 
@@ -33,7 +33,7 @@ Le Burndow Chart montre l'effort accompli pendant un sprint ou pendant une relea
 
 Le Release Burndow Chart montre l'effort accompli pour produire la release
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/01/02-Burndown.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/01/02-Burndown.png)
 
 ___
 

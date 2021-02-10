@@ -13,7 +13,7 @@ ___
 
 Un sprint possède une timebox de **4 semaines** et possède de **3 à 9 participants**. Avant de le débuter, sa **Plannification** puis la confection de son **Backlog partiel** sont requis. Une fois commencé son seul évènement quotidien est le **Daily Scrum**.
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/01-Sprint.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/01-Sprint.png)
 
 ___
 
@@ -28,7 +28,7 @@ L'objectif de ce planning est de produire un backlog de sprint en répondant à 
 
 Il est possible que par rapport à la release planning, le **scope** et l'**objectif** du sprint soient requalifiés. Il est possible de travailler directement avec des histoires utilisateurs mais la team est **libre de sa méthode**. Il est fréquent de voir les histoires utilisateurs découpées en **taches, estimées et priorisés** puis positionnée sur un **Kanban** à définir. Chacun poura selectionner une tache au démarage du sprint.
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/02-Planning.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/02-Planning.png)
 
 ___
 
@@ -42,13 +42,13 @@ ___
 
 Le résultat du **Sprint Planning** est l'établissement d'un **Sprint Backlog**. Ce Backlog concerne l'équipe de développement, **le print peut démarrer quand le backlog possède une journée de travail**. Chaque membre peut sélectionner une tache pour son accomplissement et peut ajouter des tâches en découpant une histoire utilisateur ou compléter un découpage.
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/03-Backlog.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/03-Backlog.png)
 
 ### 🏷️ **Classe de service**
 
 Afin de rendre le Backlog visible, il est conseillé d'utiliser des classes de services sur les taches. Elles sont un repère visuel pour avoir une information complémentaire sur une tache. Cette information peut indiquer une thématique ou compétence pour une tache, sa priorité ou son niveau de compétence requise.
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/04-Service.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/04-Service.png)
 
 ___
 
@@ -84,7 +84,7 @@ Cette réunion ne doit pas forcément se dérouler debout même si cela permet �
 * Que vais-je faire aujourd'hui pour aider l'équipe de développement à atteindre l'objectif de sprint?
 * Est-ce que je vois un obstacle qui m'empêche, moi ou l'équipe de développement, d'atteindre l'objectif de sprint?
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/daily.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/daily.png)
 
 
 ___
