@@ -72,10 +72,10 @@ Chaque jour, une réunion rythme le sprint. L'objectif est de synchroniser les a
 
 [Stand up](https://www.youtube.com/watch?v=kKIc1NFO-AU)
 
-* Il possède une timebox de **15 minutes**
-* Il se déroule **toujours au même endroit** et **à la même heure** pour diminuer la complexité.
-* Il se déroule dans un **lieu clos**
-* Seul l'**équipe de développement** est autorisé à y assister
+* Il possède une timebox de 15 minutes
+* Il se déroule toujours au même endroit et à la même heure pour diminuer la complexité.
+* Il se déroule dans un lieu clos
+* Seul l'équipe de développement est autorisé à y assister
 * Le Scrum Master s'assure que les règles soient respectées
 
 Cette réunion ne doit pas forcément se dérouler debout même si cela permet à la réunion de ne pas s'éterniser. Chaque membre prend la parole d'une façon auto-organisée et le format est libre. Cependant il est courant de voir 3 questions auxquelles chaque membre répond:
@@ -84,7 +84,7 @@ Cette réunion ne doit pas forcément se dérouler debout même si cela permet �
 * Que vais-je faire aujourd'hui pour aider l'équipe de développement à atteindre l'objectif de sprint?
 * Est-ce que je vois un obstacle qui m'empêche, moi ou l'équipe de développement, d'atteindre l'objectif de sprint?
 
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/daily.png)
+![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/daily.jpg)
 
 
 ___
