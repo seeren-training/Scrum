@@ -30,17 +30,6 @@ Il est possible que par rapport à la release planning, le **scope** et l'**obje
 
 ![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/02/02-Planning.jpg)
 
-
-### 🏷️ **User story**
-
-Une histoire utilisateur ne doit pas être assimilée à un Epic
-
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/scale.jpg)
-
-Elle doit répondre aux citères Invest
-
-![image](https://raw.githubusercontent.com/seeren-training/Scrum/master/wiki/resources/03/quality.jpg)
-
 ___
 
 👨🏻‍💻 Manipulation

@@ -50,7 +50,3 @@ Le product backlog contient la référence des histoires utilisateurs et leur es
 ### 🏷️ **Velocity**
 
 A la fin d'un sprint, le nombre d'effort accompli est retenu, à la fin de plusieurs sprints, une moyenne des efforts est calculée: c'est la vélocité.
-
-**Sprint 1**: 20 **+**  **Sprint 2**: 30 = **Vélocité**: 25
-
-___

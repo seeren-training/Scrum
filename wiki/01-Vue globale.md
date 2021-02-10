@@ -7,11 +7,11 @@ ___
 
 ## 📑 Processus
 
-[The Scrum Guide](https://www.scrum.org/resources/scrum-guide?gclid=CjwKCAjwte71BRBCEiwAU_V9hwM5usG59GkN4f7sfAAm99sDgs5Tis2_Aukm-Tb74cXZDKe8wH-TIRoC_psQAvD_BwE)
-
 La méthode est décrite en 2002 dans le livre Agile Software Development With Scrum.
 
 ![image ](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/02/02-Scrum-overview.png)
+
+[The Scrum Guide](https://www.scrum.org/resources/scrum-guide?gclid=CjwKCAjwte71BRBCEiwAU_V9hwM5usG59GkN4f7sfAAm99sDgs5Tis2_Aukm-Tb74cXZDKe8wH-TIRoC_psQAvD_BwE)
 
 ___
 
