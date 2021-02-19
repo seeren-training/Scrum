@@ -1,4 +1,4 @@
-# Scrum
+# Scrum - Les règles du cadre de travail itératif
 
 ## Durée
 
