@@ -5,21 +5,23 @@ ___
 
 ## Prérequis
 
-* Avoir assisté au module [Agile](https://github.com/m2i-cyril/Agile)
+* Avoir assisté au module [Agile](https://github.com/seeren-training/Gestion-Agile)
 
 ___
 
 ## Sommaire
 
-* [Vue globale](https://github.com/seeren-training/Scrum/wiki/01)
-* [Planifier la release](https://github.com/seeren-training/Scrum/wiki/02)
-* [Planifier le sprint](https://github.com/seeren-training/Scrum/wiki/03)
-* [Que le Sprint commence](https://github.com/seeren-training/Scrum/wiki/04)
+* [Le framework](https://github.com/seeren-training/Scrum/wiki/01)
+* [La philosophie](https://github.com/seeren-training/Scrum/wiki/02)
+* [La Scrum Team](https://github.com/seeren-training/Scrum/wiki/03)
+* [Les artefacts](https://github.com/seeren-training/Scrum/wiki/04)
+* [Les évènements](https://github.com/seeren-training/Scrum/wiki/05)
+* [La Retrospective](https://github.com/seeren-training/Scrum/wiki/06)
 
 ___
 
 ## Thématique
 
-Lors du modules Agile, un **Product** a été définit, un **Product Owner**, **Scrum Master** and **Dev Team** y sont ratachés via un **Backlog Product**. Ce module vise à augmenter le vocabulaire agile en constituant d'autres artefacts et en assistant à d'autres évènements agiles avec le Framework Scrum
+Ce module vise à augmenter le vocabulaire agile en constituant d'autres artefacts et en assistant à d'autres évènements agiles avec le Framework Scrum
 
 ___
