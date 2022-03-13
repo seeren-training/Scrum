@@ -8,7 +8,7 @@
 
 ___
 
-## 📑 Le Sprint
+## 📑 L'évènement
 
 Le Sprint est un conteneur pour tous les autres événements.
 
